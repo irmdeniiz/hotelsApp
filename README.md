@@ -2,12 +2,13 @@
  
 <h1>Bu proje, React ve TanStack Query kullanarak otel verilerini filtrelemek için geliştirilmiş bir uygulamadır. Kullanıcılar, çeşitli kriterlere göre otel araması yapabilir ve sonuçları filtreleyebilir.
 
-#Özellikler
 
+#Özellikler
 - **Dinamik Filtreleme:** Kullanıcılar otel özelliklerini (fiyat, yıldız sayısı, konum vb.) filtreleyebilir.
 - **Performans Optimizasyonu:** TanStack Query kullanılarak veriler hızlı ve verimli bir şekilde sorgulanır.
 - **Kullanıcı Dostu Arayüz:** Modern ve kullanıcı dostu bir arayüz ile otel arama deneyimi.
 - **Reaktif Güncellemeler:** React'in gücü ile arayüzdeki değişiklikler anında yansıtılır.
+
 
 #Teknolojiler
 - **React:** Kullanıcı arayüzü bileşenleri için.
