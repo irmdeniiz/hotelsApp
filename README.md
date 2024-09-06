@@ -1,6 +1,6 @@
 # hotelsApp
  
-<h1>Bu proje, React ve TanStack Query kullanarak otel verilerini filtrelemek için geliştirilmiş bir uygulamadır. Kullanıcılar, çeşitli kriterlere göre otel araması yapabilir ve sonuçları filtreleyebilir.
+<h1>Bu proje, React, Typescript ve TanStack Query kullanarak otel verilerini filtrelemek için geliştirilmiş bir uygulamadır. Kullanıcılar, çeşitli kriterlere göre otel araması yapabilir ve sonuçları filtreleyebilir.
 
 
 #Özellikler
